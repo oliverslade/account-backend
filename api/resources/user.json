@@ -1,0 +1,9 @@
+[
+    {
+        "userid": 1234567890,
+        "fullname": "John Doe",
+        "emailaddress": "john.doe@emails.com",
+        "password": "Password123*",
+        "bankingpin": 123456
+    }
+]
